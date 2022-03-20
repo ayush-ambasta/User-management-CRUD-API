@@ -11,6 +11,12 @@ In this project a user management system was build where user can perform follow
 
 4. **Delete user**: In this operation user will be deleted on the basis of username
 
+### How to Use
+1. Clone this repo.
+2. Run `npm install`
+3. start mongodb server
+4. Enter your credentials in .env file
+5. Run `node index`
 
 ## API Reference
 
